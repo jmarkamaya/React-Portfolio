@@ -17,7 +17,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -41,5 +43,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/jmarkamaya/React-Portfolio/"
+  "homepage": "https://github.com/jmarkamaya/React-Portfolio/",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
 }

@@ -1,7 +1,8 @@
 import React from "react";
 import About from "../About";
 import Portfolio from "../Portfolio";
-import PageContent from "../PageContent"
+import PageContent from "../PageContent";
+
 function Page({currentPage}){
     const renderPage = () => {
         switch (currentPage.name) {
