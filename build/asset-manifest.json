@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jmarkamaya/React-Portfolio/static/css/main.fc497156.css",
+    "main.js": "/jmarkamaya/React-Portfolio/static/js/main.ae869e6b.js",
+    "index.html": "/jmarkamaya/React-Portfolio/index.html",
+    "main.fc497156.css.map": "/jmarkamaya/React-Portfolio/static/css/main.fc497156.css.map",
+    "main.ae869e6b.js.map": "/jmarkamaya/React-Portfolio/static/js/main.ae869e6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc497156.css",
+    "static/js/main.ae869e6b.js"
+  ]
+}
