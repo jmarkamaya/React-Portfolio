@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/jmarkamaya/React-Portfolio/static/css/main.fc497156.css",
-    "main.js": "/jmarkamaya/React-Portfolio/static/js/main.b9d5a811.js",
-    "static/media/weather-dashboard.jpg": "/jmarkamaya/React-Portfolio/static/media/weather-dashboard.99af87d4ea4819e00952.jpg",
-    "index.html": "/jmarkamaya/React-Portfolio/index.html",
-    "main.fc497156.css.map": "/jmarkamaya/React-Portfolio/static/css/main.fc497156.css.map",
-    "main.b9d5a811.js.map": "/jmarkamaya/React-Portfolio/static/js/main.b9d5a811.js.map"
+    "main.css": "/React-Portfolio/static/css/main.fc497156.css",
+    "main.js": "/React-Portfolio/static/js/main.7e73333f.js",
+    "static/media/weather-dashboard.jpg": "/React-Portfolio/static/media/weather-dashboard.99af87d4ea4819e00952.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.fc497156.css.map": "/React-Portfolio/static/css/main.fc497156.css.map",
+    "main.7e73333f.js.map": "/React-Portfolio/static/js/main.7e73333f.js.map"
   },
   "entrypoints": [
     "static/css/main.fc497156.css",
-    "static/js/main.b9d5a811.js"
+    "static/js/main.7e73333f.js"
   ]
 }
