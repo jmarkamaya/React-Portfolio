@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/jmarkamaya/React-Portfolio/static/css/main.fc497156.css",
-    "main.js": "/jmarkamaya/React-Portfolio/static/js/main.f4767df7.js",
+    "main.js": "/jmarkamaya/React-Portfolio/static/js/main.49eedf83.js",
+    "static/media/weather-dashboard.jpg": "/jmarkamaya/React-Portfolio/static/media/weather-dashboard.99af87d4ea4819e00952.jpg",
     "index.html": "/jmarkamaya/React-Portfolio/index.html",
     "main.fc497156.css.map": "/jmarkamaya/React-Portfolio/static/css/main.fc497156.css.map",
-    "main.f4767df7.js.map": "/jmarkamaya/React-Portfolio/static/js/main.f4767df7.js.map"
+    "main.49eedf83.js.map": "/jmarkamaya/React-Portfolio/static/js/main.49eedf83.js.map"
   },
   "entrypoints": [
     "static/css/main.fc497156.css",
-    "static/js/main.f4767df7.js"
+    "static/js/main.49eedf83.js"
   ]
 }
