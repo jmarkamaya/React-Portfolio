@@ -7,7 +7,7 @@ function About() {
         <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-Hi my name is Jon
+Hi my name is Jon Amaya
         </p>
         <p>
           I like to code
