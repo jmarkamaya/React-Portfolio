@@ -27,7 +27,8 @@ body {
 }
 
 body {
-  margin: 0;
+  margin: 50px;
+  margin-top: 0;
   padding: 0;
   font-weight: 600;
   line-height: 1.5;
@@ -189,11 +190,17 @@ nav {
   font-family: 'Aladin', cursive;
   font-size: 2.5rem;
   margin: 30px 20px;
+  padding-top: px;
 }
 
 nav a:hover {
   text-decoration: none;
 }
+
+/* nav ul {
+  margin-top: 50px;
+  margin-bottom: 30px;
+} */
 
 nav li {
   cursor: pointer;

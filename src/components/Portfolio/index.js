@@ -17,9 +17,8 @@ function Portfolio() {
     },
   ]);
   return (
-    <div>
 
-      <div className="flex-row">
+      <div style={{display: 'flex'}}>
         {projects.map((project, idx) => (
           <Project
             project={project}
@@ -28,7 +27,7 @@ function Portfolio() {
         ))}
       </div>
      
-    </div>
+   
   );
 };
 export default Portfolio;

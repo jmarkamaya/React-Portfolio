@@ -4,7 +4,8 @@
 
 .full-width {
     width: 100%;
-    /* height: auto; Maintain aspect ratio */
+    height: auto; 
+    /* Maintain aspect ratio */
 
     
   }
